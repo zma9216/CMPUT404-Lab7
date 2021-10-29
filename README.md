@@ -1,1 +1,1 @@
-# CMPUT404-Lab7
+# CMPUT404 - Lab 7
